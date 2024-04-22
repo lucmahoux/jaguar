@@ -2,6 +2,12 @@
 
 Jaguar is an integrated development environment (IDE) designed specifically for Tiger and Java programming languages. It provides a comprehensive toolset to streamline your software development workflow and enhance your coding experience.
 
+![The main workspace](docs/Workspace.png)
+
+![The Starter Page](docs/Starter_page.png)
+
+![Settings](docs/Settings.png)
+
 ## Features
 
 - **Syntax Highlighting**: Jaguar offers syntax highlighting to visually distinguish different elements of your code.
